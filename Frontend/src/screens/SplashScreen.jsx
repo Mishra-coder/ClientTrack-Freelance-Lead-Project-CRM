@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
     },
     overlay: {
         ...StyleSheet.absoluteFillObject,
-        backgroundColor: 'rgba(0, 0, 0, 0.4)',
+        backgroundColor: 'rgba(0, 0, 0, 0.1)',
     },
     contentContainer: {
         flex: 1,
@@ -92,10 +92,13 @@ const styles = StyleSheet.create({
         color: '#FFFFFF',
         marginBottom: 12,
         letterSpacing: 1,
+        textShadowColor: 'rgba(0, 0, 0, 0.5)',
+        textShadowOffset: { width: 0, height: 2 },
+        textShadowRadius: 4,
     },
     subtitle: {
         fontSize: 18,
-        color: '#E0E0E0',
+        color: '#FFFFFF',
         lineHeight: 26,
         maxWidth: '80%',
     },
