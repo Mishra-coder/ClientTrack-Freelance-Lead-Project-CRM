@@ -1,5 +1,5 @@
 # ClientTrack-Freelance-Lead-Project-CRM
-# ClientTrack 🚀
+# ClientTrack 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-Active-success.svg)
@@ -24,7 +24,7 @@
 Freelancers often lose track of leads in email threads or forget to follow up with potential clients. **ClientTrack** solves this by separating **Leads** (potential work) from **Projects** (active work) while providing a seamless conversion workflow between the two.
 
 ### The Core Workflow
-1. **Capture:** Add a Lead with budget and source.
+1. **Capture:** Add a Lead with a budget and source.
 2. **Nurture:** Set follow-up dates and track notes.
 3. **Convert:** One-click conversion from Lead to Project.
 4. **Deliver:** Manage project status and track expected revenue.
